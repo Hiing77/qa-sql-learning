@@ -1,4 +1,3 @@
-
 CREATE TABLE Clients (
     id_client INT PRIMARY KEY,
     nom VARCHAR(50),
